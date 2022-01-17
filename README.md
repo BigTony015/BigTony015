@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigTony015
+- 👋 Hi, I’m Antonio Burton-Blackman (BigTony)
 - 👀 I’m interested in gaming, streaming and content creation.
 - 🌱 I’m currently learning how to become a full-stack Web Developer
 - 💞️ I’m looking to collaborate on any beginner-level projects. 
