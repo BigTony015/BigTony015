@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BigTony015
+- 👀 I’m interested in gaming, streaming and content creation.
+- 🌱 I’m currently learning how to become a full-stack Web Developer
+- 💞️ I’m looking to collaborate on any beginner-level projects. 
+- 📫 How to reach me either on Twitter (@BigTony015) or here on GitHub.
